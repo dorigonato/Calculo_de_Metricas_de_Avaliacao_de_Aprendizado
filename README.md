@@ -40,6 +40,7 @@ As fórmulas utilizadas para calcular cada métrica são:
 ## Matriz de Confusão de Exemplo
 
 A matriz de confusão utilizada como exemplo para os cálculos é:
+
 1 0 0 0 0 0 0 0 0 0
 
 0 0.99 0 0 0 0 0 0 0 0
