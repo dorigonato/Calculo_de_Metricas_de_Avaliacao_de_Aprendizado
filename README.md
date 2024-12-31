@@ -41,12 +41,21 @@ As fórmulas utilizadas para calcular cada métrica são:
 
 A matriz de confusão utilizada como exemplo para os cálculos é:
 1 0 0 0 0 0 0 0 0 0
+
 0 0.99 0 0 0 0 0 0 0 0
+
 0 0 0.98 0.01 0 0 0 0.01 0 0
+
 0 0 0 1 0 0 0 0 0 0
+
 0 0 0 0 0.99 0 0 0 0 0.01
+
 0 0 0 0.02 0 0.98 0 0 0 0
+
 0.01 0 0 0 0 0 0.99 0 0 0
+
 0 0 0 0 0 0 0 1 0 0
+
 0 0 0 0.01 0 0 0 0 0.99 0
+
 0 0 0 0 0 0 0 0.01 0 0.98
