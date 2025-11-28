@@ -1,6 +1,7 @@
 # Cálculo de Métricas de Avaliação de Aprendizado
 
-Este projeto tem como objetivo calcular as principais métricas para avaliação de modelos de classificação, focando no entendimento de como cada métrica funciona e como calculá-las a partir de uma matriz de confusão.
+Este projeto implementa cálculos de métricas fundamentais utilizadas em modelos de Machine Learning.  
+É um exercício prático para reforçar o entendimento dos indicadores usados para avaliar algoritmos supervisionados. Tem como objetivo calcular as principais métricas para avaliação de modelos de classificação, focando no entendimento de como cada métrica funciona e como calculá-las a partir de uma matriz de confusão.
 
 ## Métricas Abordadas
 
